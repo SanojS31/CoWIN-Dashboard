@@ -1,5 +1,5 @@
 
-## **_Website_**:[https://durgacowindash.ccbp.tech/](https://durgacowindash.ccbp.tech/)🔗
+## **_Website_**:[https://sanojcowind.ccbp.tech/](https://sanojcowind.ccbp.tech/)🔗
 
 In this project, let's build a **CoWIN Dashboard** by applying the concepts we have learned till now.
 
